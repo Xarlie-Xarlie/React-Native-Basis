@@ -9,3 +9,5 @@
 ### Tests Especifications
 
 - **`should add a like to the like counter of the repository`**: For this test to pass, your application must allow clicking on the `Like` button, a like to be added to the listed repository, and that update can be viewed on the screen.
+
+<img align="center" src="./src/services/screenshot.png" alt="alt text" width="250"/>
